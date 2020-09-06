@@ -1,0 +1,24 @@
+{
+  "name": "employee-tracker-sql",
+  "version": "1.0.0",
+  "description": "employee tracking program using MySQL, inquirer",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matt777k/Employee-Tracker-SQL.git"
+  },
+  "author": "Matthew Kerr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matt777k/Employee-Tracker-SQL/issues"
+  },
+  "homepage": "https://github.com/Matt777k/Employee-Tracker-SQL#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1"
+  }
+}
